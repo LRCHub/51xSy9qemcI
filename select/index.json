@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "決意の朝に",
+  "base_artist": "Aqua Timez",
+  "createdAt": "2026-02-18T14:34:15.508976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "決意の朝に",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_決意の朝に_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "決意の朝に",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/02_決意の朝に_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "決意の朝に feat.未来",
+      "artist": "Kobasolo feat. 未来",
+      "has_synced": true,
+      "path": "select/03_決意の朝に_feat.未来_Kobasolo_feat._未来.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "決意の朝に feat.未来",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/04_決意の朝に_feat.未来_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "決意の朝に \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" - Live Version",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_決意の朝に__unknown_ver._Live_at_PACIFICO_YOKOHAMA_2021.04.29__-_Live_Version_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "決意の朝に \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" (Live)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_決意の朝に__unknown_ver._Live_at_PACIFICO_YOKOHAMA_2021.04.29__(Live)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "決意の朝に",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/07_決意の朝に_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "決意の朝に",
+      "artist": "Kobasolo&Mirai",
+      "has_synced": false,
+      "path": "select/08_決意の朝に_Kobasolo&Mirai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決意の朝に",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/pl_01_決意の朝に_Aqua_Timez.txt"
+    }
+  ]
+}
